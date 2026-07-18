@@ -8,7 +8,7 @@ parameters from the paper's pipeline.
 Paper : A Cyber-Physical Manufacturing Execution Architecture
         Integrating ERP Transaction Automation and
         Autonomous Decision-Making
-Authors: Omkar Vishwas Patil, Kushal Bhandari, Omid Fatahi Valilai
+Authors: Omkar Vishwas Patil, Omid Fatahi Valilai
 Journal: Journal of Manufacturing Systems (JMS), Elsevier
 
 Usage:
