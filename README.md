@@ -3,7 +3,7 @@
 ## A Cyber-Physical Manufacturing Execution Architecture Integrating ERP Transaction Automation and Autonomous Decision-Making
 
 **Authors:** Omkar Vishwas Patil, Omid Fatahi Valilai  
-**Journal:** Journal of Manufacturing Systems (JMS), Elsevier  
+ 
 **Solver:** clingo 5.8.0 (Potsdam Answer Set Solving Collection)
 
 ---
