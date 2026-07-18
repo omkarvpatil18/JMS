@@ -2,7 +2,7 @@
 % rules.lp  —  Stable rule template for constrained shortest-path
 %              manufacturing execution planning (Listing 1, Section 3.3.2)
 %
-% Authors : Omkar Vishwas Patil, Kushal Bhandari, Omid Fatahi Valilai
+% Authors : Omkar Vishwas Patil,Omid Fatahi Valilai
 % Journal : Journal of Manufacturing Systems (JMS), Elsevier
 % Paper   : A Cyber-Physical Manufacturing Execution Architecture
 %           Integrating ERP Transaction Automation and Autonomous
