@@ -162,7 +162,7 @@ Extended solver configuration (multi-criteria objectives, soft constraints, infe
 If you use this code or the instance files, please cite:
 
 ```
-Patil, O.V., Bhandari, K., Fatahi Valilai, O. (2026).
+Patil, O.V., Fatahi Valilai, O. (2026).
 A Cyber-Physical Manufacturing Execution Architecture Integrating
 ERP Transaction Automation and Autonomous Decision-Making.
 Journal of Manufacturing Systems. [in review]
